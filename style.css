@@ -1,4 +1,19 @@
 body {
-    background-color: rgb(73, 70, 70);
+    background-color: rgb(105, 102, 102);
     color: whitesmoke;
+    font-size: larger;
+    margin: 10% 250px;
+    position: relative;
 }
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+hr {
+    width: 50%;
+    position: absolute;
+    left: -10px;
+}
+
